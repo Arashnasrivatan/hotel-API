@@ -209,3 +209,13 @@ cp .\.env.example .env
 ---
 
 Replace `/restapi/hotel` with the URL you have for accessing the API ⚠️
+
+
+---
+
+# soon ...
+
+- Admin panel 🔥
+- project on frontend 🔥
+
+**Sabzlearn api php course** ✅
