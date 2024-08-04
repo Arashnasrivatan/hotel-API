@@ -200,7 +200,12 @@ Welcome to the Hotel API! This API allows you to manage various aspects of a hot
 ```bash
 composer install
 ```
-
+---
+The **delete this text.env.example** file rename it to **.env.example**
+Then run 
+```bash
+cp .\.env.example .env
+```
 ---
 
 Replace `/restapi/hotel` with the URL you have for accessing the API ⚠️
