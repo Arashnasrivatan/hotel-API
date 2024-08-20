@@ -1,22 +1,22 @@
-# 🏨 Hotel API
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Taxi.webp" alt="Taxi" width="27" height="27" /> Hotel API
 
 Welcome to the Hotel API! This API allows you to manage various aspects of a hotel, including weather data, destinations, rooms, and users. Below are the available routes and their descriptions.
 
-## 🔐 Authentication
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" alt="Locked With Key" width="25" height="25" /> Authentication
 
-### 🔑 Login
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Key.webp" alt="Key" width="20" height="20" /> Login
 - **Endpoint:** `/v1/login`
 - **Method:** POST
 - **Description:** Authenticates a user.
 - **Controller:** `AuthController::class`
 
-### 📝 Register
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="20" height="20" /> Register
 - **Endpoint:** `/v1/register`
 - **Method:** POST
 - **Description:** Registers a new user.
 - **Controller:** `AuthController::class`
 
-### ✅ Verify
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="20" height="20" /> Verify
 - **Endpoint:** `/v1/verify`
 - **Method:** POST
 - **Description:** Verifies a user's account.
@@ -218,4 +218,4 @@ Replace `/restapi/hotel` with the URL you have for accessing the API ⚠️
 - Admin panel 🔥
 - project on frontend 🔥
 
-**Sabzlearn api php course** ✅
+**Sabzlearn api php course** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Check%20Mark%20Button.webp" alt="Check Mark Button" width="20" height="20" />
